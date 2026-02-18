@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img align="left" alt="Engenharia de Software" width="30px" style="padding-right: 10px;" src="![962f0480-7f56-495e-bbb5-89e728fd7199](https://github.com/user-attachments/assets/b77ff879-35b9-49ff-b91c-4c926c3bef4b)
+" />
 
 <!--
 
