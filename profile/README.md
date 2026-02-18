@@ -1,4 +1,5 @@
-## Hi there 👋
+## Seja Bem-Vindo 👋
+<p>Esse espaço será utilizado para a construção de projetos, armazenamento de erros e busca por melhorias sempre. O importante é não desistir ;)</p>
 <img src="https://github.com/user-attachments/assets/720ab161-5ee7-4a23-835a-b943e2f9b0fc" />
 
 <!--
