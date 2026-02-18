@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align="left" alt="Engenharia de Software" width="30px" style="padding-right: 10px;" src=""C:\Users\ZETEC\Downloads\962f0480-7f56-495e-bbb5-89e728fd7199.JPG" />
+<img align="left" alt="Engenharia de Software" width="30px" style="padding-right: 10px;" src="![962f0480-7f56-495e-bbb5-89e728fd7199](https://github.com/user-attachments/assets/c71c3089-539f-4842-8303-783570ce55d8)" />
 
 <!--
 
